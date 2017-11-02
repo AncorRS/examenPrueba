@@ -28,6 +28,10 @@
 	Pagina de registro: <input type="Submit" value="login">
 	</form>
 	
+	<form action= "www.google.com" method=Post>
+	A google: <input type="Submit" value="login">
+	</form>
+	
 	
 	
 </body>
